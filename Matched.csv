@@ -1,0 +1,118 @@
+Item,Match,Data
+"Alcohol, Non-Food",Beer,0.674
+Alcoholic Beverages,Beer,0.674
+Animal fats,Lamb and Mutton,200.0
+Animal Products,Beef(beef),500.0
+Apples and products,Apples,0.4
+"Aquatic Animals, Others",Crustaceans,180.0
+Aquatic Plants,Root Vegetables,0.4
+"Aquatic Products, Other",Crustaceans,180.0
+Bananas,Bananas,0.9
+Barley and products,Grains,27.0
+Beans,Peas,4.0
+Beer,Beer,0.674
+"Beverages, Alcoholic",Beer,0.674
+"Beverages, Fermented",Beer,0.674
+Bovine Meat,Beef(beef),500.0
+"Butter, Ghee",Beef(dairy),170.0
+Cassava and products,Cassava,2.23
+Cephalopods,Crustaceans,180.0
+Cereals - Excluding Beer,Grains,27.0
+"Cereals, Other",Grains,27.0
+"Citrus, Other",Citrus,0.4
+Cloves,Grains,27.0
+Cocoa Beans and products,Dark Chocolate,46.0
+Coconut Oil,Soybean oil,6.3
+Coconuts - Incl Copra,Apples,0.4
+Coffee and products,Coffee,26.666
+Cottonseed,Peas,4.0
+Cottonseed Oil,Soybean oil,6.3
+Cream,Beef(dairy),170.0
+Crustaceans,Crustaceans,180.0
+Dates,Berries,1.5
+Demersal Fish,Fish,60.0
+Eggs,Eggs,42.0
+"Fats, Animals, Raw",Poultry meat,57.0
+"Fish, Body Oil",Olive oil,5.4
+"Fish, Liver Oil",Olive oil,5.4
+"Fish, Seafood",Fish,60.0
+Freshwater Fish,Fish,60.0
+Fruits - Excluding Wine,Bananas,0.9
+"Fruits, Other",Bananas,0.9
+Grapefruit and products,Citrus,0.4
+Grapes and products (excl wine),Berries,1.5
+Groundnut Oil,Soybean oil,6.3
+Groundnuts (Shelled Eq),Groundnut,12.0
+Honey,Cane sugar,3.2
+Infant food,Milk,3.2
+"Lemons, Limes and products",Citrus,0.4
+Maize and products,Maize,1.48
+Maize Germ Oil,Palm oil,7.3
+"Marine Fish, Other",Maize,1.48
+Meat,Beef(beef),500.0
+"Meat, Aquatic Mammals",Crustaceans,180.0
+"Meat, Other",Lamb and Mutton,200.0
+Milk - Excluding Butter,Milk,3.2
+Millet and products,Grains,27.0
+"Molluscs, Other",Crustaceans,180.0
+Mutton & Goat Meat,Lamb and Mutton,200.0
+Nuts and products,Nuts,3.0
+Oats,Oatmeal,0.6075
+Offals,Pig meat,76.0
+"Offals, Edible",Pig meat,76.0
+Oilcrops,Palm oil,7.3
+"Oilcrops Oil, Other",Palm oil,7.3
+"Oilcrops, Other",Palm oil,7.3
+Olive Oil,Olive oil,5.4
+Olives (including preserved),Olive oil,5.4
+Onions,Onions and leeks,0.5
+"Oranges, Mandarines",Citrus,0.4
+Palm kernels,Palm oil,7.3
+Palm Oil,Palm oil,7.3
+Palmkernel Oil,Palm oil,7.3
+Peas,Peas,4.0
+Pelagic Fish,Fish,60.0
+Pepper,Onions and leeks,0.5
+Pigmeat,Pig meat,76.0
+Pimento,Onions and leeks,0.5
+Pineapples and products,Apples,0.4
+Plantains,Bananas,0.9
+Potatoes and products,Potatoes,0.46
+Poultry Meat,Poultry meat,57.0
+Pulses,Other Pulses,8.0
+"Pulses, Other and products",Other Pulses,8.0
+Rape and Mustard Oil,Rapeseed oil,3.8
+Rape and Mustardseed,Potatoes,0.46
+Rice (Milled Equivalent),Rice,1.57
+Ricebran Oil,Sunflower oil,3.6
+"Roots, Other",Root Vegetables,0.4
+Rye and products,Grains,27.0
+Sesame seed,Peas,4.0
+Sesameseed Oil,Rapeseed oil,3.8
+Sorghum and products,Grains,27.0
+Soyabean Oil,Soybean oil,6.3
+Soyabeans,Peas,4.0
+Spices,Peas,4.0
+"Spices, Other",Peas,4.0
+Starchy Roots,Root Vegetables,0.4
+Stimulants,Soybean oil,6.3
+Sugar & Sweeteners,Cane sugar,3.2
+Sugar (Raw Equivalent),Cane sugar,3.2
+Sugar beet,Beet sugar,1.8
+Sugar cane,Cane sugar,3.2
+Sugar Crops,Cane sugar,3.2
+Sugar non-centrifugal,Cane sugar,3.2
+Sunflower seed,Soybean oil,6.3
+Sunflowerseed Oil,Soybean oil,6.3
+Sweet potatoes,Potatoes,0.46
+"Sweeteners, Other",Cane sugar,3.2
+Tea (including mate),Cane sugar,3.2
+Tomatoes and products,Tomatoes,2.1
+Treenuts,Sunflower oil,3.6
+Vegetable Oils,Root Vegetables,0.4
+Vegetables,Tomatoes,2.1
+"Vegetables, Other",Onions and leeks,0.5
+Vegetal Products,Tomatoes,2.1
+Wheat and products,Grains,27
+Wine,Wine,0.9540000000000001
+Yams,Brassicas,0.5
